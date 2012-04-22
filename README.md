@@ -1,0 +1,4 @@
+Snippets
+========
+
+Miscellaneous Python snippets
